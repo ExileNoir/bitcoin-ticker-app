@@ -37,7 +37,7 @@ const kEthereum = '1 ETH';
 const kLitecoin = '1 LTC';
 
 const kCoinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
-const kApiKey = '66228DAC-FB45-48DE-B57F-DA3687ED3AF8';
+const kApiKey = 'APIKEY';
 
 class CoinData {
   CoinData();
